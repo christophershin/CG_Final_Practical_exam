@@ -33,7 +33,7 @@ Polygon surface deformation:
 <img width="120" height="160" alt="image" src="https://github.com/user-attachments/assets/99cb8a13-5266-4a0f-a077-d1a0fe368d16" />
 
 
-For the polygon surface deformation, I added a bump map to the block under the bridge since they have more details than the other objects in the environment such as screws, grooves or divets. I added a bump map using this script from here https://learn.ontariotechu.ca/courses/34225/pages/bump-shader?module_item_id=800762. I then took a screen shot from the video of the texture and added it to the block object this way it stays true to the look of the original game.
+For the polygon surface deformation, I added a bump map to the block under the bridge since they have more details than the other objects in the environment such as screws, grooves or divets. I added a bump map using this script from here https://learn.ontariotechu.ca/courses/34225/pages/bump-shader?module_item_id=800762. I then took a screen shot from the video of the texture and added it to the block object. This way, it stays true to the look of the original game. I also did not have a brick texture that I thought would fit the look of the game.
 
 
 
