@@ -10,7 +10,7 @@ Water texture: https://learn.ontariotechu.ca/courses/34225/files/5636692?module_
 
 water scrolling - https://learn.ontariotechu.ca/courses/34225/pages/water-scrolling?module_item_id=810522
 
-Creating the gifs - https://ezgif.com/video-to-gif/ezgif-8731fb08d534dc6f.mp4.html
+Creating the gifs - [https://ezgif.com/video-to-gif/ezgif-8731fb08d534dc6f.mp4.html](https://ezgif.com/)
 
 Figma - https://www.figma.com/
 
