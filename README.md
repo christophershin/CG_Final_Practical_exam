@@ -12,6 +12,9 @@ water scrolling - https://learn.ontariotechu.ca/courses/34225/pages/water-scroll
 
 Creating the gifs - https://ezgif.com/video-to-gif/ezgif-8731fb08d534dc6f.mp4.html
 
+Figma - https://www.figma.com/
+
+
 
 Deliverables:
 
