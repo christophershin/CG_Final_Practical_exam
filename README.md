@@ -4,7 +4,7 @@
 Shader Resources:
 https://learn.ontariotechu.ca/courses/34225/modules
 
-
+video references - https://www.youtube.com/watch?v=KbX6wCS5isE
 
 
 
