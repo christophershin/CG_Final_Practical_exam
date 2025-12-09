@@ -132,7 +132,7 @@ GameObject:
   - component: {fileID: 13975173}
   - component: {fileID: 13975172}
   m_Layer: 0
-  m_Name: Quad (5)
+  m_Name: clouds
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -259,7 +259,7 @@ Transform:
   m_GameObject: {fileID: 117236934}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 3.14, y: -3.32, z: 0}
+  m_LocalPosition: {x: 3.14, y: -2.82, z: 0}
   m_LocalScale: {x: 45.01, y: 3.7, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -525,7 +525,7 @@ GameObject:
   - component: {fileID: 397193694}
   - component: {fileID: 397193693}
   m_Layer: 0
-  m_Name: Quad (7)
+  m_Name: scrolling water
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -1014,7 +1014,7 @@ GameObject:
   - component: {fileID: 606060972}
   - component: {fileID: 606060971}
   m_Layer: 0
-  m_Name: Quad (2)
+  m_Name: clouds
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -1287,7 +1287,7 @@ GameObject:
   - component: {fileID: 1284617823}
   - component: {fileID: 1284617822}
   m_Layer: 0
-  m_Name: Quad (1)
+  m_Name: clouds
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -1511,7 +1511,7 @@ GameObject:
   - component: {fileID: 1684432725}
   - component: {fileID: 1684432724}
   m_Layer: 0
-  m_Name: Quad
+  m_Name: BG
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -1762,7 +1762,7 @@ GameObject:
   - component: {fileID: 1852381308}
   - component: {fileID: 1852381307}
   m_Layer: 0
-  m_Name: Quad (4)
+  m_Name: clouds
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -1874,7 +1874,7 @@ GameObject:
   - component: {fileID: 2010501141}
   - component: {fileID: 2010501140}
   m_Layer: 0
-  m_Name: Quad (3)
+  m_Name: clouds
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
