@@ -8,7 +8,7 @@ Shader "Custom/URP_StencilWrite_FrontObject_Solid"
     SubShader
     {
         
-        Tags { "RenderPipeline"="UniversalRenderPipeline" "Queue"="Geometry-1" }
+        Tags { "RenderPipeline"="UniversalPipeline" "Queue"="Geometry-1" }
 
         // Don't write color or depth; always pass depth test to update stencil even when occluded.
         ColorMask 0

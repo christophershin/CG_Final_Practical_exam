@@ -9,7 +9,7 @@ Shader "URP/URP_BumpShader"
 
     SubShader
     {
-        Tags { "RenderPipeline" = "UniversalRenderPipeline" "RenderType" = "Opaque" }
+        Tags { "RenderPipeline" = "UniversalPipeline" "RenderType" = "Opaque" }
 
         Pass
         {
