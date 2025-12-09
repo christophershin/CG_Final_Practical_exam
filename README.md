@@ -10,8 +10,21 @@ Water texture: https://learn.ontariotechu.ca/courses/34225/files/5636692?module_
 
 water scrolling - https://learn.ontariotechu.ca/courses/34225/pages/water-scrolling?module_item_id=810522
 
+Creating the gifs - https://ezgif.com/video-to-gif/ezgif-8731fb08d534dc6f.mp4.html
 
-For Stencil I added it to the quads that resemble the clouds or mountains in the background that reveals the water behind it. First I created a quad for the stencil read and the then put it on top of the objects I want to make transparent which has the stencil front. This also cuts off the bottom of the quads to create a clean flat finish. 
+
+Deliverables:
+
+Stencil:
+
+
+![ezgif com-video-to-gif-converter (2)](https://github.com/user-attachments/assets/bf66f0c3-5639-4afb-bb91-d59256b53903)
+
+
+For Stencil I added it to the quads that resemble the clouds or mountains in the background which then reveals the water behind it. First I created a quad for the stencil read and the then put it on top of the objects I want to make transparent which has the stencil front. This also cuts off the bottom of the quads to create a clean flat finish. The effect allows me to add more obstacles in the scene and still makes the water visible but doesn't show the bottom of the clouds. This I think is more versatile since you can have a huge water backround and then have a stencil read of different sizes to show different variations in the level design. 
+
+
+Polygon surface deformation:
 
 
 For the polygon surface deformation, I added a bump map to the bridge and the block under the bridge since they have more details than the other objects in the environment such as screws, grooves or divets. I added a bump map using this script from here https://learn.ontariotechu.ca/courses/34225/pages/bump-shader?module_item_id=800762. I then took a screen shot from the video of the texture and added it to the block object this way it stays true to the look of the original game.
